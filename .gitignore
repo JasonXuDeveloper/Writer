@@ -1,0 +1,7 @@
+.DS_Store
+/node_modules
+/.wrangler
+/drizzle/migrations
+.env
+# 忽略本地 novel.config.json
+novel.config.json

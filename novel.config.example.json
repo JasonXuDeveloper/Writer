@@ -1,0 +1,54 @@
+{
+  "novel_config": {
+    "basic_settings": {
+      "title": "示例小说标题",
+      "total_word_count": 1200000,
+      "chapter_word_count": 1500,
+      "writing_style": "奇幻冒险",
+      "narrative_perspective": "第一人称",
+      "central_theme": "探索未知的旅程"
+    },
+    "world_building": {
+      "era_setting": "神秘古代王国",
+      "world_map": ["王都", "森林边境", "遗忘之谷"],
+      "power_system": {
+        "levels": ["初级", "中级", "高级"],
+        "energy_source": "魔法精华",
+        "cultivation_methods": ["炼体", "炼心"]
+      },
+      "social_structure": "贵族与平民并存",
+      "special_rules": ["日夜法则", "魔法绑定"]
+    },
+    "plot_structure": {
+      "central_conflict": "英雄 vs 暗黑领主",
+      "core_hook": "未知力量即将觉醒",
+      "main_quest": "寻找失落神器",
+      "ending_type": "大团圆结局"
+    },
+    "character_system": {
+      "protagonist": {
+        "name": "示例主角",
+        "appearance": "勇敢的战士",
+        "personality_traits": ["忠诚", "坚毅"],
+        "motivation": "拯救世界",
+        "growth_arc": "从平民到传奇",
+        "special_ability": "元素之力"
+      },
+      "antagonists": [
+        {"name": "暗黑领主", "antagonist_type": "邪恶霸主", "conflict_point": "征服世界"}
+      ],
+      "supporting_characters": [
+        {"role": "导师", "relation_to_protagonist": "指导者"}
+      ]
+    },
+    "publication_settings": {
+      "chapter_structure": {"hook_requirements": "开篇悬念", "cliffhanger_frequency": "50%"},
+      "market_positioning": {"target_audience": "所有读者", "genre_tags": ["奇幻", "冒险"], "competitive_analysis": "经典奇幻元素"}
+    },
+    "creative_elements": {
+      "signature_features": ["未知魔法系统", "反转情节"],
+      "cultural_references": ["古典传说"],
+      "unique_settings": ["浮空岛屿"]
+    }
+  }
+} 

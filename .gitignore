@@ -5,3 +5,4 @@
 .env
 # 忽略本地 novel.config.json
 novel.config.json
+frontend/node_modules
